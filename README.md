@@ -625,6 +625,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**VoiceRSS**](http://www.voicerss.org/) | An API to convert Text to Speech, supporting 15+ major languages. | **N/A** |
 | [**Wit AI**](https://wit.ai/) | Provides an intent-based NLP API to easily build text and audio based chat bots. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Word Associations API**](https://wordassociations.net/en/api) | Provides service to get associations for a word or phrase. Words are grouped by semantics, meaning, and psychological perception. | **N/A** |
+| [**Word to word**](https://ns3233847.ip-135-125-74.eu/) | The Word-to-word API provides programmatic access to translate words from and to different languages. It is probably world fastest words translator API! Providing approximate/contextual (machine learning and human based) translations. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Placeholder Images
